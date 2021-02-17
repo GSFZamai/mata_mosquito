@@ -4,4 +4,4 @@ Desenvolvimento do projeto Game Mata Mosquito, referente ao conteúdo de JavaScr
 
 ## Recursos Utilizados
 - HTML5
-- JavaScript
+- JavaScript (Manipulação de objetos do DOM)
